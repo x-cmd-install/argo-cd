@@ -1,27 +1,29 @@
 about:
-  description: Declarative Continuous Deployment for Kubernetes
+  description:
+  |
+    Declarative Continuous Deployment for Kubernetes
   license: Apache-2.0
   homepage: https://argo-cd.readthedocs.io
-  head: 320d558
+  head: 2e2f4e4
   archived: false
   latestVersion: v3.5.2
-  collectedAt: 2026-09-03T05:12:56Z
+  collectedAt: 2026-09-03T22:38:19Z
 timeline:
   created: 2018-02-09
-  lastCommit: 2026-09-02
+  lastCommit: 2026-09-03
   lastRelease: 2026-08-27
 popularity:
-  star: 24066
+  star: 24074
   watcher: 221
-  fork: 7822
+  fork: 7823
   release: 579
-  contributor: 2012
-  pullRequest: 3938
-  issue: 10605
+  contributor: 2015
+  pullRequest: 3935
+  issue: 10609
 language:
-  Go: 10255222
+  Go: 10262891
   TypeScript: 1851333
-  Lua: 378677
+  Lua: 421833
   SCSS: 139605
   Shell: 81782
   Makefile: 29782
@@ -32,37 +34,37 @@ language:
   CSS: 2209
   Mustache: 1066
   HTML: 895
-totalLine: 12788651
+totalBytes: 12839476
 recent:
   last30d:
     since: 2026-08-04
     release: 6
-    mergedPR: 215
-    openPR: 106
+    mergedPR: 221
+    openPR: 110
     closedIssue: 28
-    openIssue: 88
-    commit: 204
+    openIssue: 92
+    commit: 224
   last90d:
     since: 2026-06-05
     release: 14
-    mergedPR: 675
-    openPR: 244
-    closedIssue: 106
-    openIssue: 184
-    commit: 670
+    mergedPR: 683
+    openPR: 243
+    closedIssue: 107
+    openIssue: 187
+    commit: 690
   last180d:
     since: 2026-03-07
     release: 42
-    mergedPR: 1422
-    openPR: 389
-    closedIssue: 259
-    openIssue: 321
-    commit: 1305
+    mergedPR: 1433
+    openPR: 383
+    closedIssue: 261
+    openIssue: 323
+    commit: 1325
   last360d:
     since: 2025-09-08
     release: 84
-    mergedPR: 2556
-    openPR: 549
-    closedIssue: 576
-    openIssue: 569
-    commit: 2403
+    mergedPR: 2569
+    openPR: 541
+    closedIssue: 579
+    openIssue: 570
+    commit: 2423
