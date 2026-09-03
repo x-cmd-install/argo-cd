@@ -1,0 +1,68 @@
+about:
+  description: Declarative Continuous Deployment for Kubernetes
+  license: Apache-2.0
+  homepage: https://argo-cd.readthedocs.io
+  head: 320d558
+  archived: false
+  latestVersion: v3.5.2
+  collectedAt: 2026-09-03T05:12:56Z
+timeline:
+  created: 2018-02-09
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-27
+popularity:
+  star: 24066
+  watcher: 221
+  fork: 7822
+  release: 579
+  contributor: 2012
+  pullRequest: 3938
+  issue: 10605
+language:
+  Go: 10255222
+  TypeScript: 1851333
+  Lua: 378677
+  SCSS: 139605
+  Shell: 81782
+  Makefile: 29782
+  Dockerfile: 16694
+  JavaScript: 12117
+  Procfile: 11523
+  Starlark: 7746
+  CSS: 2209
+  Mustache: 1066
+  HTML: 895
+totalLine: 12788651
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 6
+    mergedPR: 215
+    openPR: 106
+    closedIssue: 28
+    openIssue: 88
+    commit: 204
+  last90d:
+    since: 2026-06-05
+    release: 14
+    mergedPR: 675
+    openPR: 244
+    closedIssue: 106
+    openIssue: 184
+    commit: 670
+  last180d:
+    since: 2026-03-07
+    release: 42
+    mergedPR: 1422
+    openPR: 389
+    closedIssue: 259
+    openIssue: 321
+    commit: 1305
+  last360d:
+    since: 2025-09-08
+    release: 84
+    mergedPR: 2556
+    openPR: 549
+    closedIssue: 576
+    openIssue: 569
+    commit: 2403
