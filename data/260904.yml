@@ -7,7 +7,7 @@ about:
   head: 53cd374
   archived: false
   latestVersion: v3.5.2
-  collectedAt: 2026-09-04T20:16:56Z
+  collectedAt: 2026-09-04T20:30:35Z
 timeline:
   created: 2018-02-09
   lastCommit: 2026-09-04
@@ -80,20 +80,20 @@ recent:
     since: 2024-09-14
     release: 100
     mergedPR: 4734
-    openPR: 651
-    closedIssue: 1384
-    openIssue: 1131
+    openPR: 650
+    closedIssue: 1385
+    openIssue: 1130
     commit: 3919
 total:
   release: 579
   mergedPR: 12402
-  openPR: 826
-  closedIssue: 7081
-  openIssue: 3534
+  openPR: 825
+  closedIssue: 7083
+  openIssue: 3532
   commit: 11433
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-cd
-collectedAt: 2026-09-04T20:17:17Z
+collectedAt: 2026-09-04T20:30:56Z
 loc:
   Html:
     code: 1794649
