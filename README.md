@@ -5,9 +5,9 @@ Declarative Continuous Deployment for Kubernetes
 - **Upstream**: <https://github.com/argoproj/argo-cd>
 - **Homepage**: <https://argo-cd.readthedocs.io>
 - **Latest release**: `v3.5.2` (2026-08-27)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 24111 · **Forks**: 7827 · **Open issues**: 10630 · **Contributors**: 2013
+- **Stars**: 24113 · **Forks**: 7828 · **Open issues**: 10636 · **Contributors**: 2013
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/argo-cd> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:22:02Z._
+_Last regenerated: 2026-09-09T19:09:34Z._
