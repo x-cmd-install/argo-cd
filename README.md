@@ -12,6 +12,26 @@ Declarative Continuous Deployment for Kubernetes
 x install argo-cd
 ```
 
+## Code insight
+
+Total: **2,733,791** lines of code across **4017** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Html | 1,822,335 | 1,338 | 217,863 | 31 |
+| Go | 451,030 | 30,503 | 42,365 | 1057 |
+| Yaml | 368,053 | 2,042 | 3,340 | 2660 |
+| Tsx | 32,062 | 585 | 2,182 | 192 |
+| Json | 27,878 | 0 | 12 | 77 |
+
+## OpenSSF Scorecard
+
+Overall score: **8.9 / 10**
+
+Lowest-scoring checks:
+
+- **Vulnerabilities** (0/10) — 25 existing vulnerabilities detected
+
 ## Source
 
 - **Upstream**: <https://github.com/argoproj/argo-cd>
@@ -23,6 +43,25 @@ x install argo-cd
 - **Latest**: `v3.5.2` (2026-08-27)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 11
+
+## Popularity
+
+- **Stars**: 24,120 · **Forks**: 7,826 · **Open issues**: 10,643 · **Contributors**: 2,014
+
+## Totals (cumulative)
+
+- **Releases**: 579 · **Merged PRs**: 12461 · **Open PRs**: 829 · **Closed issues**: 7107 · **Open issues**: 3536 · **Commits**: 11484
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 5 | 219 | 110 | 41 | 87 | 274 |
+| last60d | 2026-07-13 | 9 | 455 | 179 | 73 | 151 | 487 |
+| 90d | 2026-06-13 | 14 | 680 | 233 | 112 | 194 | 713 |
+| last180d | 2026-03-15 | 41 | 1458 | 363 | 268 | 317 | 1369 |
+| 360d | 2025-09-16 | 79 | 2597 | 519 | 588 | 561 | 2436 |
+| last720d | 2024-09-21 | 100 | 4733 | 653 | 1378 | 1124 | 3921 |
 
 ## Release assets
 
@@ -40,42 +79,6 @@ x install argo-cd
 | [cli_checksums.txt](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/cli_checksums.txt) | 605 B | `other` |
 | [sbom.tar.gz](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/sbom.tar.gz) | 131.4 KiB | `native/unknown` |
 
-## Popularity
-
-- **Stars**: 24,119 · **Forks**: 7,827 · **Open issues**: 10,639 · **Contributors**: 2,013
-
-## Totals (cumulative)
-
-- **Releases**: 579 · **Merged PRs**: 12454 · **Open PRs**: 826 · **Closed issues**: 7105 · **Open issues**: 3534 · **Commits**: 11480
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 219 | 109 | 40 | 87 | 269 |
-| 90d | 2026-06-12 | 14 | 673 | 230 | 111 | 191 | 708 |
-| 360d | 2025-09-15 | 79 | 2598 | 519 | 586 | 562 | 2431 |
-
-## Code size
-
-Total: **2,731,732** lines of code across **4008** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Html | 1,822,335 | 1,338 | 217,863 | 31 |
-| Go | 449,283 | 30,369 | 42,147 | 1053 |
-| Yaml | 367,752 | 2,034 | 3,339 | 2655 |
-| Tsx | 32,062 | 585 | 2,182 | 192 |
-| Json | 27,878 | 0 | 12 | 77 |
-
-## OpenSSF Scorecard
-
-Overall score: **8.9 / 10**
-
-Lowest-scoring checks:
-
-- **Vulnerabilities** (0/10) — 25 existing vulnerabilities detected
-
 ## Improve this data
 
 Install metadata for argo-cd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `argo-cd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +88,4 @@ Install metadata for argo-cd lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:39:40Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:14:53Z._
