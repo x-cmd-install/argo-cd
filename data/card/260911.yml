@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.5.2"
   latestRelease: "v3.5.2"
   latestPrerelease: "v3.5.0-rc3"
-  collectedAt: 2026-09-11T00:13:23Z
+  collectedAt: 2026-09-11T05:05:07Z
 timeline:
   created: 2018-02-09
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 2026-07-28
 popularity:
-  star: 24120
+  star: 24121
   watcher: 222
-  fork: 7826
+  fork: 7827
   release: 579
   contributor: 2014
-  pullRequest: 16408
+  pullRequest: 16409
   issue: 10643
 language:
   Go: 10510071
@@ -95,7 +95,7 @@ total:
   commit: 11484
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-cd
-collectedAt: 2026-09-11T00:14:30Z
+collectedAt: 2026-09-11T05:06:14Z
 loc:
   Html:
     code: 1822335
