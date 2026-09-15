@@ -14,14 +14,14 @@ x install argo-cd
 
 ## 代码洞察
 
-合计: **2,740,422** 行代码（覆盖前 5 种语言、共 **4026** 个文件）。
+合计: **2,741,420** 行代码（覆盖前 5 种语言、共 **4028** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Html | 1,828,473 | 1,394 | 219,307 | 31 |
-| Go | 451,406 | 30,554 | 42,410 | 1057 |
-| Yaml | 368,173 | 2,042 | 3,340 | 2660 |
-| Tsx | 31,963 | 695 | 2,385 | 201 |
+| Go | 452,157 | 30,649 | 42,503 | 1057 |
+| Yaml | 368,198 | 2,042 | 3,340 | 2661 |
+| Tsx | 32,040 | 710 | 2,396 | 202 |
 | Json | 27,908 | 0 | 12 | 77 |
 
 ## OpenSSF Scorecard 评分
@@ -40,44 +40,44 @@ x install argo-cd
 
 ## 发布
 
-- **最新版本**: `v3.5.2` (2026-08-27)
-- **最近提交**: 2026-09-13
+- **最新版本**: `v3.5.3` (2026-09-14)
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 24,153 · **Fork**: 7,840 · **开放 issue**: 10,649 · **贡献者**: 2,017
+- **Star**: 24,161 · **Fork**: 7,844 · **开放 issue**: 10,655 · **贡献者**: 2,018
 
 ## 累计统计
 
-- **发布数**: 579 · **已合并 PR**: 12476 · **开放 PR**: 833 · **已关闭 issue**: 7117 · **开放 issue**: 3532 · **提交数**: 11499
+- **发布数**: 581 · **已合并 PR**: 12488 · **开放 PR**: 832 · **已关闭 issue**: 7124 · **开放 issue**: 3531 · **提交数**: 11509
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 220 | 116 | 43 | 81 | 242 |
-| last60d | 2026-07-16 | 9 | 445 | 186 | 71 | 142 | 450 |
-| 90d | 2026-06-16 | 14 | 672 | 241 | 118 | 190 | 677 |
-| last180d | 2026-03-18 | 39 | 1434 | 371 | 270 | 310 | 1340 |
-| 360d | 2025-09-19 | 75 | 2565 | 523 | 595 | 551 | 2408 |
-| last720d | 2024-09-24 | 100 | 4729 | 658 | 1379 | 1118 | 3927 |
+| 30d | 2026-08-16 | 4 | 230 | 116 | 48 | 82 | 253 |
+| last60d | 2026-07-17 | 11 | 441 | 185 | 75 | 141 | 461 |
+| 90d | 2026-06-17 | 15 | 672 | 240 | 122 | 191 | 688 |
+| last180d | 2026-03-19 | 41 | 1434 | 365 | 276 | 308 | 1351 |
+| 360d | 2025-09-20 | 77 | 2573 | 522 | 600 | 551 | 2419 |
+| last720d | 2024-09-25 | 100 | 4734 | 657 | 1376 | 1115 | 3932 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [argocd-cli.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-cli.intoto.jsonl) | 23.7 KiB | `other` |
-| [argocd-darwin-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-darwin-amd64) | 244.9 MiB | `native/darwin/x64` |
-| [argocd-darwin-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-darwin-arm64) | 234.7 MiB | `native/darwin/arm64` |
-| [argocd-linux-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-linux-amd64) | 238.1 MiB | `native/linux/x64` |
-| [argocd-linux-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-linux-arm64) | 225.9 MiB | `native/linux/arm64` |
-| [argocd-linux-ppc64le](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-linux-ppc64le) | 234.3 MiB | `other` |
-| [argocd-linux-s390x](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-linux-s390x) | 241.9 MiB | `other` |
-| [argocd-sbom.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-sbom.intoto.jsonl) | 22.9 KiB | `other` |
-| [argocd-windows-amd64.exe](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/argocd-windows-amd64.exe) | 240.2 MiB | `native/win/x64` |
-| [cli_checksums.txt](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/cli_checksums.txt) | 605 B | `other` |
-| [sbom.tar.gz](https://github.com/argoproj/argo-cd/releases/download/v3.5.2/sbom.tar.gz) | 131.4 KiB | `native/unknown` |
+| [argocd-cli.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-cli.intoto.jsonl) | 23.4 KiB | `other` |
+| [argocd-darwin-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-darwin-amd64) | 244.9 MiB | `native/darwin/x64` |
+| [argocd-darwin-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-darwin-arm64) | 234.7 MiB | `native/darwin/arm64` |
+| [argocd-linux-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-linux-amd64) | 238.1 MiB | `native/linux/x64` |
+| [argocd-linux-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-linux-arm64) | 225.9 MiB | `native/linux/arm64` |
+| [argocd-linux-ppc64le](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-linux-ppc64le) | 234.4 MiB | `other` |
+| [argocd-linux-s390x](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-linux-s390x) | 241.9 MiB | `other` |
+| [argocd-sbom.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-sbom.intoto.jsonl) | 22.2 KiB | `other` |
+| [argocd-windows-amd64.exe](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/argocd-windows-amd64.exe) | 240.2 MiB | `native/win/x64` |
+| [cli_checksums.txt](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/cli_checksums.txt) | 605 B | `other` |
+| [sbom.tar.gz](https://github.com/argoproj/argo-cd/releases/download/v3.5.3/sbom.tar.gz) | 131.4 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -88,4 +88,4 @@ argo-cd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:21:53Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:37:44Z._
