@@ -4,7 +4,7 @@
 
 Declarative Continuous Deployment for Kubernetes
 
-[![x-cmd/install — argo-cd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/argo-cd.svg)](https://x-cmd.com/install/argo-cd)
+[![x-cmd/install — argo-cd Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/argo-cd.svg)](https://x-cmd.com/install/argo-cd)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install argo-cd
 
 ## Code insight
 
-Total: **2,772,091** lines of code across **4040** files in the top 5 languages.
+Total: **2,772,094** lines of code across **4040** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 1,855,949 | 1,614 | 226,008 | 38 |
 | Go | 453,959 | 30,820 | 42,742 | 1060 |
-| Yaml | 368,405 | 2,044 | 3,391 | 2661 |
+| Yaml | 368,408 | 2,044 | 3,391 | 2661 |
 | Tsx | 32,765 | 741 | 2,468 | 203 |
 | Json | 27,943 | 0 | 12 | 78 |
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.6.0-rc1` (2026-09-14)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 24,213 · **Forks**: 7,868 · **Open issues**: 10,673 · **Contributors**: 2,023
+- **Stars**: 24,223 · **Forks**: 7,870 · **Open issues**: 10,675 · **Contributors**: 2,023
 
 ## Totals (cumulative)
 
-- **Releases**: 582 · **Merged PRs**: 12549 · **Open PRs**: 827 · **Closed issues**: 7139 · **Open issues**: 3534 · **Commits**: 11552
+- **Releases**: 582 · **Merged PRs**: 12552 · **Open PRs**: 833 · **Closed issues**: 7141 · **Open issues**: 3534 · **Commits**: 11554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 226 | 102 | 41 | 71 | 256 |
-| last60d | 2026-07-24 | 12 | 438 | 171 | 74 | 140 | 454 |
-| 90d | 2026-06-24 | 14 | 662 | 237 | 117 | 189 | 682 |
-| last180d | 2026-03-26 | 38 | 1445 | 356 | 272 | 306 | 1364 |
-| 360d | 2025-09-27 | 75 | 2589 | 511 | 600 | 545 | 2432 |
-| last720d | 2024-10-02 | 100 | 4751 | 653 | 1369 | 1112 | 3952 |
+| 30d | 2026-08-24 | 5 | 215 | 101 | 41 | 66 | 259 |
+| last60d | 2026-07-25 | 12 | 440 | 178 | 75 | 141 | 457 |
+| 90d | 2026-06-25 | 14 | 660 | 242 | 117 | 190 | 685 |
+| last180d | 2026-03-27 | 37 | 1435 | 363 | 270 | 305 | 1367 |
+| 360d | 2025-09-28 | 75 | 2583 | 518 | 601 | 545 | 2435 |
+| last720d | 2024-10-03 | 100 | 4743 | 659 | 1368 | 1112 | 3943 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for argo-cd lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:23:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:40:22Z._
