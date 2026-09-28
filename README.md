@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.6.0-rc1` (2026-09-14)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-28
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 24,252 · **Forks**: 7,887 · **Open issues**: 10,681 · **Contributors**: 2,026
+- **Stars**: 24,258 · **Forks**: 7,888 · **Open issues**: 10,683 · **Contributors**: 2,026
 
 ## Totals (cumulative)
 
-- **Releases**: 582 · **Merged PRs**: 12582 · **Open PRs**: 837 · **Closed issues**: 7148 · **Open issues**: 3533 · **Commits**: 11573
+- **Releases**: 582 · **Merged PRs**: 12583 · **Open PRs**: 845 · **Closed issues**: 7148 · **Open issues**: 3535 · **Commits**: 11574
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 214 | 94 | 38 | 57 | 202 |
-| last60d | 2026-07-29 | 11 | 434 | 175 | 76 | 130 | 433 |
-| 90d | 2026-06-29 | 14 | 661 | 243 | 116 | 188 | 669 |
-| last180d | 2026-03-31 | 35 | 1443 | 364 | 269 | 306 | 1331 |
-| 360d | 2025-10-02 | 71 | 2582 | 519 | 599 | 538 | 2415 |
-| last720d | 2024-10-07 | 100 | 4738 | 663 | 1365 | 1111 | 3924 |
+| 30d | 2026-08-29 | 3 | 213 | 100 | 38 | 59 | 203 |
+| last60d | 2026-07-30 | 11 | 425 | 181 | 75 | 128 | 434 |
+| 90d | 2026-06-30 | 14 | 656 | 249 | 114 | 189 | 670 |
+| last180d | 2026-04-01 | 35 | 1438 | 370 | 267 | 306 | 1332 |
+| 360d | 2025-10-03 | 71 | 2576 | 527 | 596 | 537 | 2416 |
+| last720d | 2024-10-08 | 100 | 4727 | 670 | 1361 | 1112 | 3918 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for argo-cd lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:39:42Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:43:57Z._
