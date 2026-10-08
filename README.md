@@ -14,14 +14,14 @@ x install argo-cd
 
 ## Code insight
 
-Total: **2,778,733** lines of code across **4073** files in the top 5 languages.
+Total: **2,778,962** lines of code across **4075** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 1,855,447 | 1,599 | 225,788 | 38 |
-| Go | 458,903 | 31,404 | 43,255 | 1076 |
-| Yaml | 368,839 | 2,049 | 3,387 | 2671 |
-| Tsx | 33,775 | 791 | 2,607 | 208 |
+| Go | 459,117 | 31,417 | 43,272 | 1076 |
+| Yaml | 368,836 | 2,049 | 3,387 | 2671 |
+| Tsx | 33,791 | 793 | 2,619 | 210 |
 | Json | 28,143 | 0 | 12 | 80 |
 
 ## OpenSSF Scorecard
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,342 · **Forks**: 7,915 · **Open issues**: 10,719 · **Contributors**: 2,033
+- **Stars**: 24,350 · **Forks**: 7,925 · **Open issues**: 10,723 · **Contributors**: 2,036
 
 ## Totals (cumulative)
 
-- **Releases**: 586 · **Merged PRs**: 12671 · **Open PRs**: 870 · **Closed issues**: 7165 · **Open issues**: 3554 · **Commits**: 11651
+- **Releases**: 586 · **Merged PRs**: 12696 · **Open PRs**: 855 · **Closed issues**: 7172 · **Open issues**: 3551 · **Commits**: 11657
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 7 | 207 | 116 | 30 | 61 | 187 |
-| last60d | 2026-08-08 | 12 | 451 | 196 | 80 | 132 | 463 |
-| 90d | 2026-07-09 | 17 | 678 | 256 | 117 | 189 | 695 |
-| last180d | 2026-04-10 | 39 | 1425 | 391 | 272 | 314 | 1358 |
-| 360d | 2025-10-12 | 74 | 2622 | 548 | 602 | 547 | 2473 |
-| last720d | 2024-10-17 | 100 | 4744 | 694 | 1357 | 1114 | 3934 |
+| 30d | 2026-09-08 | 7 | 221 | 100 | 35 | 58 | 195 |
+| last60d | 2026-08-09 | 12 | 472 | 181 | 86 | 130 | 471 |
+| 90d | 2026-07-10 | 16 | 691 | 239 | 122 | 186 | 703 |
+| last180d | 2026-04-11 | 39 | 1448 | 376 | 279 | 311 | 1366 |
+| 360d | 2025-10-13 | 74 | 2642 | 533 | 609 | 544 | 2481 |
+| last720d | 2024-10-18 | 100 | 4756 | 679 | 1359 | 1107 | 3932 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for argo-cd lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:17:10Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:26:13Z._
