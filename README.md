@@ -14,13 +14,13 @@ x install argo-cd
 
 ## Code insight
 
-Total: **2,780,202** lines of code across **4075** files in the top 5 languages.
+Total: **2,780,219** lines of code across **4075** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Html | 1,855,286 | 1,535 | 225,212 | 38 |
 | Go | 460,046 | 31,601 | 43,394 | 1076 |
-| Yaml | 368,909 | 2,050 | 3,387 | 2671 |
+| Yaml | 368,926 | 2,050 | 3,391 | 2671 |
 | Tsx | 33,996 | 820 | 2,644 | 210 |
 | Json | 28,143 | 0 | 12 | 80 |
 
@@ -40,44 +40,44 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.3.15` (2026-10-06)
-- **Last commit**: 2026-10-12
+- **Latest**: `v3.3.16` (2026-10-12)
+- **Last commit**: 2026-10-13
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 24,372 · **Forks**: 7,939 · **Open issues**: 10,734 · **Contributors**: 2,040
+- **Stars**: 24,385 · **Forks**: 7,942 · **Open issues**: 10,737 · **Contributors**: 2,040
 
 ## Totals (cumulative)
 
-- **Releases**: 586 · **Merged PRs**: 12747 · **Open PRs**: 851 · **Closed issues**: 7181 · **Open issues**: 3553 · **Commits**: 11686
+- **Releases**: 589 · **Merged PRs**: 12765 · **Open PRs**: 852 · **Closed issues**: 7181 · **Open issues**: 3556 · **Commits**: 11698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 7 | 244 | 79 | 34 | 54 | 180 |
-| last60d | 2026-08-13 | 9 | 483 | 164 | 87 | 126 | 480 |
-| 90d | 2026-07-14 | 16 | 721 | 231 | 125 | 188 | 684 |
-| last180d | 2026-04-15 | 39 | 1458 | 364 | 281 | 310 | 1336 |
-| 360d | 2025-10-17 | 74 | 2673 | 525 | 606 | 541 | 2492 |
-| last720d | 2024-10-22 | 100 | 4794 | 675 | 1366 | 1103 | 3952 |
+| 30d | 2026-09-13 | 10 | 259 | 81 | 33 | 56 | 194 |
+| last60d | 2026-08-14 | 12 | 497 | 165 | 86 | 127 | 494 |
+| 90d | 2026-07-15 | 19 | 733 | 231 | 122 | 188 | 698 |
+| last180d | 2026-04-16 | 42 | 1445 | 366 | 278 | 311 | 1350 |
+| 360d | 2025-10-18 | 75 | 2691 | 526 | 606 | 543 | 2506 |
+| last720d | 2024-10-23 | 100 | 4804 | 676 | 1362 | 1102 | 3963 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [argocd-cli.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-cli.intoto.jsonl) | 23.5 KiB | `other` |
-| [argocd-darwin-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-darwin-amd64) | 245.0 MiB | `native/darwin/x64` |
-| [argocd-darwin-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-darwin-arm64) | 234.8 MiB | `native/darwin/arm64` |
-| [argocd-linux-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-linux-amd64) | 238.2 MiB | `native/linux/x64` |
-| [argocd-linux-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-linux-arm64) | 226.0 MiB | `native/linux/arm64` |
-| [argocd-linux-ppc64le](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-linux-ppc64le) | 234.4 MiB | `other` |
-| [argocd-linux-s390x](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-linux-s390x) | 242.0 MiB | `other` |
-| [argocd-sbom.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-sbom.intoto.jsonl) | 22.7 KiB | `other` |
-| [argocd-windows-amd64.exe](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/argocd-windows-amd64.exe) | 240.3 MiB | `native/win/x64` |
-| [cli_checksums.txt](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/cli_checksums.txt) | 605 B | `other` |
-| [sbom.tar.gz](https://github.com/argoproj/argo-cd/releases/download/v3.5.4/sbom.tar.gz) | 131.4 KiB | `native/unknown` |
+| [argocd-cli.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-cli.intoto.jsonl) | 23.5 KiB | `other` |
+| [argocd-darwin-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-amd64) | 245.5 MiB | `native/darwin/x64` |
+| [argocd-darwin-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-arm64) | 235.3 MiB | `native/darwin/arm64` |
+| [argocd-linux-amd64](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-amd64) | 238.7 MiB | `native/linux/x64` |
+| [argocd-linux-arm64](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-arm64) | 226.5 MiB | `native/linux/arm64` |
+| [argocd-linux-ppc64le](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-ppc64le) | 235.0 MiB | `other` |
+| [argocd-linux-s390x](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-s390x) | 242.6 MiB | `other` |
+| [argocd-sbom.intoto.jsonl](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-sbom.intoto.jsonl) | 22.5 KiB | `other` |
+| [argocd-windows-amd64.exe](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-windows-amd64.exe) | 240.8 MiB | `native/win/x64` |
+| [cli_checksums.txt](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/cli_checksums.txt) | 605 B | `other` |
+| [sbom.tar.gz](https://github.com/argoproj/argo-cd/releases/download/v3.5.5/sbom.tar.gz) | 132.1 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for argo-cd lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:28:22Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:18:22Z._
