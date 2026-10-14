@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24103,
       "digest": "sha256:0bd9777c313008d0ad529235a0333f86e15491a7467de5d727e0a7f8755f2f75",
-      "download_count": 47,
+      "download_count": 174,
       "created_at": "2026-10-12T11:00:32Z",
       "updated_at": "2026-10-12T11:00:32Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-cli.intoto.jsonl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 257453888,
       "digest": "sha256:5ecec70354a79fe206f3b677c8784bd4f3e1d60ec8e7d794e1b84a4ff54935d1",
-      "download_count": 49,
+      "download_count": 70,
       "created_at": "2026-10-12T10:59:29Z",
       "updated_at": "2026-10-12T10:59:39Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 246717218,
       "digest": "sha256:e1957a758d727f6e3efcdef44209f6bc0c41b98a77057eec9bb5cac5dbd0667f",
-      "download_count": 122,
+      "download_count": 286,
       "created_at": "2026-10-12T10:59:29Z",
       "updated_at": "2026-10-12T10:59:39Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 250337675,
       "digest": "sha256:c3ddfa606fc3e89ab14f55bda6600b207c355b028f8eaabe69b817a4c4621aba",
-      "download_count": 14945,
+      "download_count": 34718,
       "created_at": "2026-10-12T10:59:16Z",
       "updated_at": "2026-10-12T10:59:28Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 237457126,
       "digest": "sha256:13f423b9014e212a3e0052b7826e1d6b95ee5ac156f2436fc856f2eb8c827537",
-      "download_count": 1603,
+      "download_count": 3787,
       "created_at": "2026-10-12T10:59:29Z",
       "updated_at": "2026-10-12T10:59:40Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 246423004,
       "digest": "sha256:88c294a4b213f1e6ad80da994c03c7b8956901078fbbc56931eca3a22924b844",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-12T10:59:16Z",
       "updated_at": "2026-10-12T10:59:29Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-ppc64le"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 254393580,
       "digest": "sha256:1842b5250c048f0d5867527fa67b639764c8540590cc5d0b519f6dd273c5a3d7",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-10-12T10:59:16Z",
       "updated_at": "2026-10-12T10:59:30Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-linux-s390x"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 23019,
       "digest": "sha256:7490d88b66153c6224aa77de1471a3b84e1aff30490b1641e82acf5a037e5682",
-      "download_count": 22,
+      "download_count": 28,
       "created_at": "2026-10-12T11:02:57Z",
       "updated_at": "2026-10-12T11:02:57Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-sbom.intoto.jsonl"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 252547072,
       "digest": "sha256:4b441aea390ff8526d69ccafa4e8b22d8b4701ae6612fbbed9a8095d6a914a2c",
-      "download_count": 214,
+      "download_count": 441,
       "created_at": "2026-10-12T10:59:16Z",
       "updated_at": "2026-10-12T10:59:28Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/argocd-windows-amd64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 605,
       "digest": "sha256:994a8680f032628d53944389ac7bfaebd629a167ebe6acf8e51214a8808ab671",
-      "download_count": 417,
+      "download_count": 934,
       "created_at": "2026-10-12T10:59:31Z",
       "updated_at": "2026-10-12T10:59:31Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/cli_checksums.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 135236,
       "digest": "sha256:2ca3847bf92203c77306091d6052953cf567112ad6c125c114f70dcc38121345",
-      "download_count": 20,
+      "download_count": 26,
       "created_at": "2026-10-12T11:02:03Z",
       "updated_at": "2026-10-12T11:02:03Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.5.5/sbom.tar.gz"
