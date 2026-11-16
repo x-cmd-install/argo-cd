@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,612 · **Forks**: 8,143 · **Open issues**: 10,910 · **Contributors**: 2,094
+- **Stars**: 24,618 · **Forks**: 8,148 · **Open issues**: 10,912 · **Contributors**: 2,094
 
 ## Totals (cumulative)
 
-- **Releases**: 600 · **Merged PRs**: 13263 · **Open PRs**: 920 · **Closed issues**: 7340 · **Open issues**: 3570 · **Commits**: 11984
+- **Releases**: 600 · **Merged PRs**: 13263 · **Open PRs**: 927 · **Closed issues**: 7343 · **Open issues**: 3569 · **Commits**: 11984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 10 | 398 | 155 | 53 | 101 | 264 |
-| last60d | 2026-09-16 | 19 | 695 | 218 | 97 | 151 | 515 |
-| 90d | 2026-08-17 | 23 | 957 | 294 | 164 | 218 | 804 |
-| last180d | 2026-05-19 | 37 | 1670 | 424 | 299 | 340 | 1469 |
-| 360d | 2025-11-20 | 83 | 3025 | 589 | 645 | 563 | 2710 |
-| last720d | 2024-11-25 | 100 | 5126 | 741 | 1389 | 1094 | 4114 |
+| 30d | 2026-10-17 | 10 | 393 | 163 | 52 | 100 | 264 |
+| last60d | 2026-09-17 | 18 | 687 | 225 | 98 | 150 | 515 |
+| 90d | 2026-08-18 | 23 | 948 | 298 | 161 | 215 | 804 |
+| last180d | 2026-05-20 | 37 | 1658 | 431 | 301 | 338 | 1469 |
+| 360d | 2025-11-21 | 83 | 3019 | 595 | 642 | 563 | 2710 |
+| last720d | 2024-11-26 | 100 | 5122 | 748 | 1389 | 1091 | 4103 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for argo-cd lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:58:27Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:13:10Z._
