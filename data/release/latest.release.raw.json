@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24083,
       "digest": "sha256:fee5774f86960e50d794fda5716ae4f5012fd845d0c06b17c91239718e08c5fb",
-      "download_count": 274,
+      "download_count": 308,
       "created_at": "2026-11-18T20:04:41Z",
       "updated_at": "2026-11-18T20:04:42Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-cli.intoto.jsonl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 274369632,
       "digest": "sha256:edd8eb65505eed6ff21aee75035b6f578e1b05479950b7549dc95ad95a787a1c",
-      "download_count": 99,
+      "download_count": 118,
       "created_at": "2026-11-18T19:55:20Z",
       "updated_at": "2026-11-18T19:55:35Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 262433554,
       "digest": "sha256:188d11670ba0160214d37e6df8a507f9dafd96234bf040d6e82ae1b733660a5a",
-      "download_count": 485,
+      "download_count": 586,
       "created_at": "2026-11-18T19:55:35Z",
       "updated_at": "2026-11-18T19:55:53Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 267272546,
       "digest": "sha256:80cc51ce8eb39d5601d54fd14225ed15a04ccf4baa3427f5c1e72a4e342aa0b2",
-      "download_count": 51204,
+      "download_count": 63527,
       "created_at": "2026-11-18T19:55:34Z",
       "updated_at": "2026-11-18T19:55:53Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 253126711,
       "digest": "sha256:578e87773bfb0fe5047250f16f914d0362fbfce0b5b2b7ed7204776925dcdff9",
-      "download_count": 6361,
+      "download_count": 8297,
       "created_at": "2026-11-18T19:55:20Z",
       "updated_at": "2026-11-18T19:55:33Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 262582023,
       "digest": "sha256:294da113130df6a25aee38b4f62d9493ed698863d4c1a780f0e1ccce75a0eede",
-      "download_count": 55,
+      "download_count": 57,
       "created_at": "2026-11-18T19:55:20Z",
       "updated_at": "2026-11-18T19:55:35Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-linux-ppc64le"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 270617487,
       "digest": "sha256:02c4f2e78c5eb4b566364a0e274766441ca499940e1466e0cb3b9978c09b922e",
-      "download_count": 50,
+      "download_count": 52,
       "created_at": "2026-11-18T19:55:36Z",
       "updated_at": "2026-11-18T19:55:48Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-linux-s390x"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 23131,
       "digest": "sha256:71c615681d967fe36e3f257a6310b869b41843c74f9ebcb5f7cc0333e1062aa7",
-      "download_count": 48,
+      "download_count": 51,
       "created_at": "2026-11-18T19:59:28Z",
       "updated_at": "2026-11-18T19:59:28Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-sbom.intoto.jsonl"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 269511168,
       "digest": "sha256:a553ee6198b47590c837a87913147f265fcba035094886cc701219aa041a006d",
-      "download_count": 630,
+      "download_count": 800,
       "created_at": "2026-11-18T19:55:20Z",
       "updated_at": "2026-11-18T19:55:34Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/argocd-windows-amd64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 605,
       "digest": "sha256:c7cf82a81bb6763bd565307a5ac0a81a2042e62cccb8646169b6478913317f40",
-      "download_count": 1932,
+      "download_count": 2472,
       "created_at": "2026-11-18T19:55:36Z",
       "updated_at": "2026-11-18T19:55:36Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/cli_checksums.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 126188,
       "digest": "sha256:b3c9257945208e43486702612e67b2a99608a3f2dd251eca333e4b0831c82220",
-      "download_count": 59,
+      "download_count": 67,
       "created_at": "2026-11-18T19:58:37Z",
       "updated_at": "2026-11-18T19:58:37Z",
       "browser_download_url": "https://github.com/argoproj/argo-cd/releases/download/v3.6.2/sbom.tar.gz"
@@ -438,8 +438,8 @@
   "body": "## Quick Start\n\n### Non-HA:\n\n```shell\nkubectl create namespace argocd\nkubectl apply -n argocd --server-side --force-conflicts -f https://raw.githubusercontent.com/argoproj/argo-cd/v3.6.2/manifests/install.yaml\n```\n\n### HA:\n\n```shell\nkubectl create namespace argocd\nkubectl apply -n argocd --server-side --force-conflicts -f https://raw.githubusercontent.com/argoproj/argo-cd/v3.6.2/manifests/ha/install.yaml\n```\n\n## Release Signatures and Provenance\n\nAll Argo CD container images are signed by cosign.  A Provenance is generated for container images and CLI binaries which meet the SLSA Level 3 specifications. See the [documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/signed-release-assets) on how to verify.\n\n## Release Notes Blog Post\nFor a detailed breakdown of the key changes and improvements in this release, check out the [official blog post](https://blog.argoproj.io/argo-cd-v3-0-release-candidate-a0b933f4e58f)\n\n## Upgrading\n\nIf upgrading from a different minor version, be sure to read the [upgrading](https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/overview/) documentation.\n\n## Changelog\n### Bug fixes\n* 931f5be6f905516c8e2c9f16c8ac3039c1cefe45: fix(appset): patch only the refresh annotation instead of rewriting the ApplicationSet (#24378, #24647) (cherry-pick #31023 for 3.6) (#31029) (@argo-cd-cherry-pick-bot[bot])\n* d28d604985bd35bcec901c1f9dc7843835971bf1: fix(controller): keep the server-side diff cache when manifest-generate-paths has no changes (#30812) (cherry-pick #30899 for 3.6) (#31022) (@argo-cd-cherry-pick-bot[bot])\n* f3e083acd6a58c1058c0317af2d1ec37b4210688: fix(controller): skip the diff cache after an Unknown sync status (#28722) (cherry-pick #30893 for 3.6) (#30898) (@argo-cd-cherry-pick-bot[bot])\n* 4650371b518108674d90f686c58e3b864bcfb90f: fix(deps): upgrade dlclark/regexp2 from v1.12.0 to v2.13.0 (CVE-2026-77299) (cherry-pick #31005 for 3.6) (#31039) (@chengfang)\n* 8ec580f0509cdc509d1a5b19f12f78f42d2e0bed: fix(kustomize): add every existing component when ignoreMissingComponents is set (#30909) (cherry-pick #30910 for 3.6) (#30922) (@argo-cd-cherry-pick-bot[bot])\n* 8656ba6c8e189555857b89420f17e93248d7a5ff: fix(ui): default multi-source source panels to expanded in the Sources tab (#30942) (cherry-pick #30955 for 3.6) (#30961) (@argo-cd-cherry-pick-bot[bot])\n* c14134fbcf5f20e3aecf00f5ad3ca59bbb81be81: fix(ui): keep the terminal connected when switching container in a pod (#30881) (cherry-pick #30882 for 3.6) (#30912) (@argo-cd-cherry-pick-bot[bot])\n* 0e02a401a010e24d03835456696af63b8a7f4355: fix(ui): show resources owned by grouped pods in compact tree view (#30278) (cherry-pick #30478 for 3.6) (#30879) (@argo-cd-cherry-pick-bot[bot])\n* 994e173e2577a5983baad0647f7b65d431b7a152: fix(ui): truncate top bar breadcrumbs and title instead of overlapping (#29292) (cherry-pick #30682 for 3.6) (#30837) (@argo-cd-cherry-pick-bot[bot])\n* 4eb468d287f0afb4cfbd6f0e43374eac954599b9: fix: AppProject destination deny (!name / !server) vetoes when it positively matches (cherry-pick #30884 for 3.6) (#30896) (@argo-cd-cherry-pick-bot[bot])\n### Documentation\n* c0d4de353bde4738b32d07444a232a9cdf1425b0: docs(notifications): explain why resource health is empty in templates (#23135) (cherry-pick #30935 for 3.6) (#30946) (@argo-cd-cherry-pick-bot[bot])\n* f8df90b111fc2d9d3369ebdc11e52a4b34de3445: docs: add globalProjects to the argocd-cm reference (cherry-pick #30990 for 3.6) (#31000) (@argo-cd-cherry-pick-bot[bot])\n* 2bacc0f1c11383a5ab40cefaa606e1383aec7ad3: docs: add missing keys to the argocd-cmd-params-cm reference (cherry-pick #30933 for 3.6) (#30987) (@bhavishyajain545)\n* 833470e8b11114db0ed6e91671dd14b966da7196: docs: explain how to inspect the files received by a CMP sidecar (#18547) (cherry-pick #30486 for 3.6) (#30971) (@argo-cd-cherry-pick-bot[bot])\n* 6b06ba69c9142dd1ac355e583b9b3895229c631b: docs: fix the sync options example and explain spec options for kubectl syncs (#30815) (cherry-pick #30816 for 3.6) (#30843) (@argo-cd-cherry-pick-bot[bot])\n### Dependency updates\n* ed3d8e24555e70756c9bca84239c2207afa078c0: chore(deps): update dependency helm/helm to v4.3.2 (release-3.6) (#30986) (@argoproj-renovate[bot])\n* 7e4c259f4eddfd310bd432606dcac21f80ca2cd0: chore(deps): update group golang to v1.27.4 (release-3.6) (#30915) (@argoproj-renovate[bot])\n### Other work\n* 8e8268ef2f3df99ca95663f5080fa6056f156805: chore: bump version to 3.6.2 on release-3.6 branch (#31056) (@github-actions[bot])\n* c62adfbc0857de42ff4f0583195475289a51bd54: fix(gitops-engine): stop retaining the decoded OpenAPI document per cluster (#30810) (cherry-pick #30811 for 3.6) (#30830) (@argo-cd-cherry-pick-bot[bot])\n* 7877e294b2144afa536742201896e8fc73bfbf5c: fix(gitops-engine): trim excess capacity from cached compressed manifests (#30779) (cherry-pick #30780 for 3.6) (#30840) (@argo-cd-cherry-pick-bot[bot])\n\n**Full Changelog**: https://github.com/argoproj/argo-cd/compare/v3.6.1...v3.6.2\n\n<a href=\"https://argoproj.github.io/cd/\"><img src=\"https://raw.githubusercontent.com/argoproj/argo-site/master/content/pages/cd/gitops-cd.png\" width=\"25%\" ></a>\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/argoproj/argo-cd/releases/450482599/reactions",
-    "total_count": 2,
-    "+1": 2,
+    "total_count": 3,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
